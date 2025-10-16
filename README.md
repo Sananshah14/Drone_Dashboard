@@ -24,5 +24,14 @@ This project is lightweight, fast, and easy to extend.
 ## ⚙️ Project Setup
 
 Install dependencies:
-```bash
+
 npm install
+
+## Start the development server with hot reload:
+
+npm run dev
+
+
+Build for production:
+
+npm run build
